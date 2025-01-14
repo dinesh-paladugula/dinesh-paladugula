@@ -1,6 +1,23 @@
-# 💫 About Me:
-Hi 👋, I'm Dinesh Babu Paladugula<br>🔭 I’m currently working on Data Projects<br>👯 I’m looking to collaborate on Data & AI domain<br>🤝 I’m looking for help with Exploratory Data Analysis and Statistics<br>🌱 I’m currently learning Python, SQL, Power BI, API connections<br>💬 Ask me about Data Science & AI<br>📫 How to reach me: dineshpaladugula2002@gmail.com<br>⚡ Fun fact: Big Data is growing so rapidly that, by 2025, it’s expected we’ll generate around 463 exabytes of data each day worldwide. Get your SQL queries ready!
+<h1 align="center">Hi 👋, I'm Dinesh Babu Paladugula</h1>
+<h3 align="center">Empowering Decisions with Data: Navigating the Data Landscape || Python Programming || Exploratory Data Analysis || SQL || Machine Learning || Big Data</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-paladugula&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-paladugula" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-paladugula" alt="dinesh-paladugula" /></a> </p>
+
+- 🔭 I’m currently working on **Data projects**
+
+- 🌱 I’m currently learning **Python, SQL, Power BI, API connections**
+
+- 👯 I’m looking to collaborate on **Data & AI domain**
+
+- 🤝 I’m looking for help with **Exploratory Data Analysis and Statistics**
+
+- 💬 Ask me about **Data Science**
+
+- 📫 How to reach me **dineshpaladugula2002@gmail.com**
+
+- ⚡ Fun fact **Big Data is growing so rapidly that, by 2025, it’s expected we’ll generate around 463 exabytes of data each day worldwide. Get your SQL queries ready!**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MgxukU4QNZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dineshhhh.8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshbabu-paladugula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dineshpaladugula2002) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/anonymous-bruhh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dineshhhh_8) 
@@ -13,12 +30,10 @@ Hi 👋, I'm Dinesh Babu Paladugula<br>🔭 I’m currently working on Data Proj
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-paladugula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dinesh-paladugula&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dinesh-paladugula&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
